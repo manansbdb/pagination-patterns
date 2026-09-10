@@ -1,0 +1,8 @@
+{
+  "data": [{"id": "user_10", "name": "Ada"}, {"id": "user_11", "name": "Grace"}],
+  "pagination": {
+    "limit": 2,
+    "next_cursor": "eyJpZCI6InVzZXJfMTEifQ",
+    "has_more": true
+  }
+}
